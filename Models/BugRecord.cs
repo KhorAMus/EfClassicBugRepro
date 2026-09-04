@@ -6,6 +6,6 @@ public class BugRecord
 
     public string Value { get; set; } = string.Empty;
 
-    //Uncomment the following line after first run:
+    //Uncomment the following line after the first run:
     //public bool TestField { get; set; }
 }
